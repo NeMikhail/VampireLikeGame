@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec449225cffdb7b41b41c81d30af4684, type: 3}
+  m_Name: EnemyPatternsList
+  m_EditorClassIdentifier: 
+  PatternsListConfigs:
+  - PatternType: 0
+    PatternConfig: {fileID: 11400000, guid: 8274321269b0dce45890c3af72824a48, type: 2}
+  - PatternType: 1
+    PatternConfig: {fileID: 11400000, guid: 6ac77398514c6914dbfe71d7bef99056, type: 2}
+  - PatternType: 4
+    PatternConfig: {fileID: 11400000, guid: 297215197d1ec1e48bd3eff02ac83165, type: 2}
+  - PatternType: 3
+    PatternConfig: {fileID: 11400000, guid: 189488374acf2fa4d9c7a1949449991e, type: 2}
+  - PatternType: 6
+    PatternConfig: {fileID: 11400000, guid: c4758ed0377909c49883609a60849e12, type: 2}
+  - PatternType: 1
+    PatternConfig: {fileID: 11400000, guid: 835613121e9903046b0b55aaf4327524, type: 2}
+  - PatternType: 5
+    PatternConfig: {fileID: 11400000, guid: 5eeaf65a42f88424a80f51510214e38c, type: 2}
+  - PatternType: 7
+    PatternConfig: {fileID: 11400000, guid: 961c37cbdb833924f8fbb3ca34c00055, type: 2}
+  - PatternType: 8
+    PatternConfig: {fileID: 11400000, guid: 1a962175a4ea0d442947e6da0e9d6965, type: 2}
+  - PatternType: 9
+    PatternConfig: {fileID: 11400000, guid: 4f55b97b9336ea441aa0170adeebce71, type: 2}
+  - PatternType: 10
+    PatternConfig: {fileID: 11400000, guid: ba7608f1a0558fe4788002dbabe2fd2f, type: 2}

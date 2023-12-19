@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb7e8dc3b6b9774ab805c6c2099cccb, type: 3}
+  m_Name: FirstPrototype
+  m_EditorClassIdentifier: 
+  <LocationName>k__BackingField: First prototype
+  <LocationImage>k__BackingField: {fileID: 21300000, guid: 3494dc956dfd7174abc07060940a2848, type: 3}
+  <LocationDescription>k__BackingField: This is the very first level map we tried
+    to make. Here we experimented with different combat mechanics.
+  <SceneName>k__BackingField: GameScene
+  <DurationTime>k__BackingField: 60
+  <DestructableObjectsAmount>k__BackingField: 800
+  <EnemyRespawnModel>k__BackingField: {fileID: 11400000, guid: e368279e5fc238f4a93b5fcca4d79572, type: 2}
+  <LocationModifiersConfig>k__BackingField: {fileID: 11400000, guid: 02f070be3d1856741bcf04decec9fedb, type: 2}
+  <LocationGeneratorConfig>k__BackingField: {fileID: 11400000, guid: 25c41a9d5781d1e45ae3427fda8a2ed0, type: 2}
+  <IsUnlocked>k__BackingField: 1

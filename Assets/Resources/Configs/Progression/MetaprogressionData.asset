@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28db48f89e87dbc4da244260d893e520, type: 3}
+  m_Name: MetaprogressionData
+  m_EditorClassIdentifier: 
+  _collectedCoins: 0
+  _achievements: {fileID: 11400000, guid: feb8ccae2bc30c24cb41d518a7de0762, type: 2}

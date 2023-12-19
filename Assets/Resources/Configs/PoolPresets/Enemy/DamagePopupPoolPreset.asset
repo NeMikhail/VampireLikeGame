@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811cae657bd8e38428497030def70114, type: 3}
+  m_Name: DamagePopupPoolPreset
+  m_EditorClassIdentifier: 
+  _poolName: DAMAGE_POPUP
+  _poolItems:
+  - prefab: {fileID: 7272394802998351376, guid: f2ebb435b9113fc47ba18750bb70842e, type: 3}
+    size: 40

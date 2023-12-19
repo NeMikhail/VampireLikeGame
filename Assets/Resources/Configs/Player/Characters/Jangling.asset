@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7514cc9a77d34d4eb09b690fcb6370c1, type: 3}
+  m_Name: Jangling
+  m_EditorClassIdentifier: 
+  _isUnlocked: 1
+  _isCharachterOpen: 1
+  _characterCost: 0
+  _playerPrefab: {fileID: 5468426263087943535, guid: ab204cfc85ee4c94181180d9bc2216ec, type: 3}
+  _characterName: Jangling
+  _characterImage: {fileID: 21300000, guid: 614a73c57f99e7744b0521fc168ba4f1, type: 3}
+  _playerDefaultWeapon: 4
+  _playerSpeed: 250
+  _playerMaxHealth: 100
+  _playerHealth: 100
+  _playerArmor: 0
+  _playerRegeneration: 0
+  _playerExpirienceMultiplier: 1
+  _playerExpiriencePickupRange: 2
+  _playerRevivesCount: 0
+  _weaponDamage: 0
+  _weaponArea: 0
+  _weaponCooldown: 0
+  _weaponProjectileSpeed: 0
+  _weaponProjectileDuration: 0
+  _weaponProjectileAdditional: 0

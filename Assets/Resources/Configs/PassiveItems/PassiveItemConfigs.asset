@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 702d462b2b3dfae4e8ce9d03ffbb96e6, type: 3}
+  m_Name: PassiveItemConfigs
+  m_EditorClassIdentifier: 
+  _name: AllPassiveItems
+  _description: none
+  _items:
+  - _displayName: Spinach
+    _name: 0
+    _icon: {fileID: 21300000, guid: 657d456b4fa54744c93f710ca1d132c9, type: 3}
+    _description: Raises inflicted damage by 10%
+    _modifiers:
+    - _modifier: 2
+      _deltaMultiplier: 0.1
+    _levelUpCfg: {fileID: 11400000, guid: 10b4791d54f971e4881a07567dfc61d7, type: 2}
+    _probability: 0.9
+  - _displayName: Armor
+    _name: 1
+    _icon: {fileID: 21300000, guid: bd9089c077a4e0d40bd40bdeeed21bc7, type: 3}
+    _description: Reduces incoming damage by 1. Increases retaliatory damage by 10%
+    _modifiers:
+    - _modifier: 9
+      _deltaMultiplier: 1
+    _levelUpCfg: {fileID: 11400000, guid: 90767013fd2abe94499ffa4d2611ef9c, type: 2}
+    _probability: 1
+  - _displayName: Hollow Heart
+    _name: 2
+    _icon: {fileID: 21300000, guid: e1c68fe46c0e5634ebefbd290cc18b83, type: 3}
+    _description: Augments max health by 20%.
+    _modifiers:
+    - _modifier: 5
+      _deltaMultiplier: 1.2
+    _levelUpCfg: {fileID: 11400000, guid: 341e226461218e946a1ffcb5056f25b4, type: 2}
+    _probability: 1
+  - _displayName: Pummarola
+    _name: 3
+    _icon: {fileID: 21300000, guid: a29bf037b769f124aa5dbc6038b6a340, type: 3}
+    _description: Character recovers 0.2 HP per second
+    _modifiers:
+    - _modifier: 10
+      _deltaMultiplier: 0.2
+    _levelUpCfg: {fileID: 11400000, guid: f0a1c9a59c2b4c743a2bf61459fc33ef, type: 2}
+    _probability: 0.95
+  - _displayName: Empty Tome
+    _name: 4
+    _icon: {fileID: 21300000, guid: 1c2b038bc913e1249b2929ec5f832974, type: 3}
+    _description: Reduces weapons cooldown by 8%
+    _modifiers:
+    - _modifier: 11
+      _deltaMultiplier: 0.08
+    _levelUpCfg: {fileID: 11400000, guid: dad8e10bf7cee2648a9e96bb340a3623, type: 2}
+    _probability: 0.95
+  - _displayName: Candelabrador
+    _name: 5
+    _icon: {fileID: 21300000, guid: 64f4465b4c06dda4180da6e0ae0285c9, type: 3}
+    _description: Augments area of attacks by 10%
+    _modifiers:
+    - _modifier: 3
+      _deltaMultiplier: 1.1
+    _levelUpCfg: {fileID: 11400000, guid: dd424eb341656ab4cbf29759d181f467, type: 2}
+    _probability: 0.95
+  - _displayName: Bracer
+    _name: 6
+    _icon: {fileID: 21300000, guid: 8c02cf5fd49a50844a6ba57ff0310f39, type: 3}
+    _description: Increases projectiles speed by 10%
+    _modifiers:
+    - _modifier: 4
+      _deltaMultiplier: 1.1
+    _levelUpCfg: {fileID: 11400000, guid: 77c37c402b3df794dbc489db2980d429, type: 2}
+    _probability: 0.9
+  - _displayName: Spellbinder
+    _name: 7
+    _icon: {fileID: 21300000, guid: 69f1cf53e3626bc41be99a890f9e6312, type: 3}
+    _description: Increases duration of weapon effects by 10%
+    _modifiers:
+    - _modifier: 6
+      _deltaMultiplier: 1.1
+    _levelUpCfg: {fileID: 11400000, guid: c013684ec83948c4b9e69c2c07533ca8, type: 2}
+    _probability: 0.9
+  - _displayName: Duplicator
+    _name: 8
+    _icon: {fileID: 21300000, guid: 304ac2797ab76e04eb6a28e49a0c06d8, type: 3}
+    _description: Weapons fire more projectiles
+    _modifiers:
+    - _modifier: 7
+      _deltaMultiplier: 1
+    _levelUpCfg: {fileID: 11400000, guid: cc24a363bf7047642b76998dbae8d285, type: 2}
+    _probability: 0.75
+  - _displayName: Wings
+    _name: 9
+    _icon: {fileID: 21300000, guid: 1be4802d7c52a154f939712993bd8018, type: 3}
+    _description: Character moves 10% faster
+    _modifiers:
+    - _modifier: 1
+      _deltaMultiplier: 1.1
+    _levelUpCfg: {fileID: 11400000, guid: 241d39c6468ba1745bca5a8425b4b9ab, type: 2}
+    _probability: 0.95
+  - _displayName: Attractorb
+    _name: 10
+    _icon: {fileID: 21300000, guid: d05910b4ea4046e42aeeb690e04afd61, type: 3}
+    _description: Pickup range increased by 50%
+    _modifiers:
+    - _modifier: 12
+      _deltaMultiplier: 1.5
+    _levelUpCfg: {fileID: 11400000, guid: 2780eb33c65c959428b4ad816777438d, type: 2}
+    _probability: 0
+  - _displayName: Clover
+    _name: 11
+    _icon: {fileID: 21300000, guid: 3678d92d61ef901488932357e200a40c, type: 3}
+    _description: Character gets 10% luckier
+    _modifiers:
+    - _modifier: 12
+      _deltaMultiplier: 1.1
+    _levelUpCfg: {fileID: 11400000, guid: de0ddab926ae6fe47a281cd18bf0f2f3, type: 2}
+    _probability: 0.8
+  - _displayName: Crown
+    _name: 12
+    _icon: {fileID: 21300000, guid: 35063d122fac61e45b4de71eec14a211, type: 3}
+    _description: Character gains 8% more experience
+    _modifiers:
+    - _modifier: 14
+      _deltaMultiplier: 1.08
+    _levelUpCfg: {fileID: 11400000, guid: 86ac7bbd77fe69041b38470f927ebc8e, type: 2}
+    _probability: 0.8

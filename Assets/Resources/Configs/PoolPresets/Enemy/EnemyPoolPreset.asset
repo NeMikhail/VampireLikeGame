@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811cae657bd8e38428497030def70114, type: 3}
+  m_Name: EnemyPoolPreset
+  m_EditorClassIdentifier: 
+  _poolName: ENEMY
+  _poolItems:
+  - prefab: {fileID: 7277413627714420157, guid: 29627ec697e93a94ca0e1c89d8915ec2, type: 3}
+    size: 100
+  - prefab: {fileID: 7277413627714420157, guid: 3798f75c6ed8b4f45a90cf1106808551, type: 3}
+    size: 30
+  - prefab: {fileID: 7277413627714420157, guid: cc1ba40f811deeb408a1431a24a46b64, type: 3}
+    size: 5
+  - prefab: {fileID: 7277413627714420157, guid: f075789baed8a48489883ed05dc6fa0e, type: 3}
+    size: 5
+  - prefab: {fileID: 8736208172755163169, guid: 792d8a39724ffa548965c10089dcac66, type: 3}
+    size: 30
+  - prefab: {fileID: 4311111495703447436, guid: bfe0e71770e9a8b4e8ec90aa9ce824d5, type: 3}
+    size: 50
+  - prefab: {fileID: 1666678542618180, guid: 85b818bfa3c384b4fbfba1bb03433d40, type: 3}
+    size: 5
+  - prefab: {fileID: 1870912557112684, guid: 4d7e98f4359a75e4a896ccbd6a3f7f77, type: 3}
+    size: 5
+  - prefab: {fileID: 1520184032351820, guid: 2a3004d84823e2641975c53f22262568, type: 3}
+    size: 5

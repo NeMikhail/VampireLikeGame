@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a71f802a7df6e849a54a3e9b4ebd436, type: 3}
+  m_Name: EnemyList
+  m_EditorClassIdentifier: 
+  EnemyListConfigs:
+  - EnemyType: 3
+    Prefab: {fileID: 7277413627714420157, guid: 3798f75c6ed8b4f45a90cf1106808551, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: d4ce08d78a6e09d4a966668cc7366f56, type: 2}
+  - EnemyType: 4
+    Prefab: {fileID: 7277413627714420157, guid: cc1ba40f811deeb408a1431a24a46b64, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 22182319b87bcbf439eb36e836b67e33, type: 2}
+  - EnemyType: 2
+    Prefab: {fileID: 7277413627714420157, guid: f075789baed8a48489883ed05dc6fa0e, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: e8504d2ce4e982840bd2f9251589c1f6, type: 2}
+  - EnemyType: 1
+    Prefab: {fileID: 7277413627714420157, guid: 29627ec697e93a94ca0e1c89d8915ec2, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 7268e0d274309b942822547091ff4f07, type: 2}
+  - EnemyType: 5
+    Prefab: {fileID: 7277413627714420157, guid: 93e7a6f4c11606b4dabf32daaf12af81, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: bf8ec402b6517e84f8fab0344e58d6a4, type: 2}
+  - EnemyType: 6
+    Prefab: {fileID: 8736208172755163169, guid: 792d8a39724ffa548965c10089dcac66, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: fbcdd1ff6afacb440be5d9d8faae4857, type: 2}
+  - EnemyType: 8
+    Prefab: {fileID: 7277413627714420157, guid: 1d6c4e85d32920641bae6a7d89053307, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 20190f6dc8a96be4d87337784c069e5d, type: 2}
+  - EnemyType: 9
+    Prefab: {fileID: 7277413627714420157, guid: 9d473299dccb73d47a611279006c85f2, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: ac22b2eeb92ee6245ab39245dda4de5c, type: 2}
+  - EnemyType: 10
+    Prefab: {fileID: 8736208172755163169, guid: f88961e4398ae064386eb73ce83bc5f8, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 85f5fa6aa691f0f4cbcd8a62a3beed6b, type: 2}
+  - EnemyType: 7
+    Prefab: {fileID: 1189682042208265435, guid: 059593fba9c6daa42878fe2cffc0a26a, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 5b9c3c8a5db4b624ea6c2fae2ea572c6, type: 2}
+  - EnemyType: 11
+    Prefab: {fileID: 3529056840686540621, guid: ba497f623b8214d46bc26b04ae85ac6b, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 02a541cfa6f20c44d8315590bcc6b262, type: 2}
+  - EnemyType: 12
+    Prefab: {fileID: 4311111495703447436, guid: bfe0e71770e9a8b4e8ec90aa9ce824d5, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 7268e0d274309b942822547091ff4f07, type: 2}
+  - EnemyType: 13
+    Prefab: {fileID: 1666678542618180, guid: 85b818bfa3c384b4fbfba1bb03433d40, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 481f2520240570b44b96f1f9f74eefe3, type: 2}
+  - EnemyType: 14
+    Prefab: {fileID: 1909744818002174, guid: 16481e6ddef02dc41ac66ae1252bb39d, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 20190f6dc8a96be4d87337784c069e5d, type: 2}
+  - EnemyType: 15
+    Prefab: {fileID: 1870912557112684, guid: 4d7e98f4359a75e4a896ccbd6a3f7f77, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 2e395d642a28b584cacf0a8d8b5cd568, type: 2}
+  - EnemyType: 16
+    Prefab: {fileID: 1997296248483302, guid: b4037441aaaadf24998f72e19c33d7c4, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 20190f6dc8a96be4d87337784c069e5d, type: 2}
+  - EnemyType: 17
+    Prefab: {fileID: 1520184032351820, guid: 2a3004d84823e2641975c53f22262568, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: cdff15c3611ade041b112e380dea34fa, type: 2}
+  - EnemyType: 18
+    Prefab: {fileID: 1566049822020886, guid: f7adfb546b0512f4bbe352229288e33a, type: 3}
+    EnemyScriptableObject: {fileID: 11400000, guid: 20190f6dc8a96be4d87337784c069e5d, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb7e8dc3b6b9774ab805c6c2099cccb, type: 3}
+  m_Name: ThirdLocation
+  m_EditorClassIdentifier: 
+  <LocationName>k__BackingField: Location3
+  <LocationImage>k__BackingField: {fileID: 21300000, guid: 36e6970b84831434a9eac79abd03700b, type: 3}
+  <LocationDescription>k__BackingField: Halloween location
+  <SceneName>k__BackingField: SceneThree
+  <DurationTime>k__BackingField: 80
+  <DestructableObjectsAmount>k__BackingField: 900
+  <EnemyRespawnModel>k__BackingField: {fileID: 11400000, guid: a3238f6b30a8d704b849731224dbe1a9, type: 2}
+  <LocationModifiersConfig>k__BackingField: {fileID: 11400000, guid: 97afce120bac6bb47b96e6891d830f5b, type: 2}
+  <LocationGeneratorConfig>k__BackingField: {fileID: 11400000, guid: f457f6472ac75784dacd483bece57a86, type: 2}
+  <IsUnlocked>k__BackingField: 1

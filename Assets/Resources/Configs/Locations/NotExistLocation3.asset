@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb7e8dc3b6b9774ab805c6c2099cccb, type: 3}
+  m_Name: NotExistLocation3
+  m_EditorClassIdentifier: 
+  <LocationName>k__BackingField: Not exist location 4
+  <LocationImage>k__BackingField: {fileID: 21300000, guid: 9aa4348290784b2468144a97eb15d8d7, type: 3}
+  <LocationDescription>k__BackingField: Location doesn't exist yet
+  <SceneName>k__BackingField: 
+  <DurationTime>k__BackingField: 0
+  <EnemyRespawnModel>k__BackingField: {fileID: 0}

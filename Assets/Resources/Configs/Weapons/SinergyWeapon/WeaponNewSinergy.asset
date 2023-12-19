@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fc3fbaa0e364d3479d95a97249b3fde, type: 3}
+  m_Name: WeaponNewSinergy
+  m_EditorClassIdentifier: 
+  _name: SinergyBible
+  _description: '-'
+  _type: 3
+  _items:
+  - _displayName: SinergyBible
+    _name: 3
+    _description: 'Fires 1 more projectile. '
+    _icon: {fileID: 21300000, guid: 0c6a2a64ca9f9c946a7dbbd1674cf5bd, type: 3}
+    _levelUpCfg: {fileID: 11400000, guid: e0bf942e677458f42bc1f2874e93b269, type: 2}
+    _shotSound: {fileID: 0}
+    _probability: 0
+    _isSynergy: 0
+    _passiveForSynergy: []
+    _weaponSynergy: {fileID: 0}
+    _weaponType: 5
+    _target: 0
+    _damage: 1000
+    _damageReplayTime: 0
+    _area: 1.5
+    _cooldown: 0
+    _projectile: {fileID: 6805923556457315200, guid: 15827af0c04a74e489a2cf6a2140c6ca, type: 3}
+    _hitImpact: {fileID: 0}
+    _projectileSpeed: 4
+    _projectileInterval: 3
+    _projectileMaxCount: 10
+    _projectileDuration: 0
+    _projectileMaxDamageEnemy: 0
+    _projectileMaxBounceCount: 0
+    _isKnockback: 0

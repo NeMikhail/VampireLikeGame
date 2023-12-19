@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fc3fbaa0e364d3479d95a97249b3fde, type: 3}
+  m_Name: FireWandLevelUp
+  m_EditorClassIdentifier: 
+  _name: Fire Wand
+  _description: '-'
+  _type: 2
+  _items:
+  - _displayName: Fire Wand
+    _name: 2
+    _description: 'Base Damage up by 10. '
+    _icon: {fileID: 21300000, guid: 0c6a2a64ca9f9c946a7dbbd1674cf5bd, type: 3}
+    _levelUpCfg: {fileID: 0}
+    _shotSound: {fileID: 0}
+    _probability: 0
+    _isSynergy: 0
+    _passiveForSynergy: []
+    _weaponSynergy: {fileID: 0}
+    _weaponType: 3
+    _target: 0
+    _damage: 30
+    _damageReplayTime: 0
+    _area: 0.8
+    _chanceCritical: 0
+    _multiplierCritical: 0
+    _cooldown: 3
+    _projectile: {fileID: 6805923556457315200, guid: a6aa8d9b3cdc0ff47afa0c841a69cd4e, type: 3}
+    _hitImpact: {fileID: 0}
+    _projectileSpeed: 7
+    _projectileInterval: 0
+    _projectileMaxCount: 3
+    _projectileDuration: 7
+    _projectileMaxDamageEnemy: 1
+    _projectileMaxBounceCount: 0
+    _isKnockback: 0
+  - _displayName: 
+    _name: 2
+    _description: 'Base Damage up by 10. Base Speed up by 20%. '
+    _icon: {fileID: 21300000, guid: 0c6a2a64ca9f9c946a7dbbd1674cf5bd, type: 3}
+    _levelUpCfg: {fileID: 0}
+    _shotSound: {fileID: 0}
+    _probability: 0
+    _isSynergy: 0
+    _passiveForSynergy: []
+    _weaponSynergy: {fileID: 0}
+    _weaponType: 3
+    _target: 0
+    _damage: 40
+    _damageReplayTime: 0
+    _area: 0.8
+    _chanceCritical: 0
+    _multiplierCritical: 0
+    _cooldown: 3
+    _projectile: {fileID: 6805923556457315200, guid: a6aa8d9b3cdc0ff47afa0c841a69cd4e, type: 3}
+    _hitImpact: {fileID: 0}
+    _projectileSpeed: 9
+    _projectileInterval: 0
+    _projectileMaxCount: 3
+    _projectileDuration: 7
+    _projectileMaxDamageEnemy: 1
+    _projectileMaxBounceCount: 0
+    _isKnockback: 0

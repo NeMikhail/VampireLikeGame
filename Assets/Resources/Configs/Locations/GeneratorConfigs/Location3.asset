@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a116e7a7714019b171fa593ae47e42, type: 3}
+  m_Name: Location3
+  m_EditorClassIdentifier: 
+  _locationSize: 3
+  _tilesPrefabs:
+  - {fileID: 7381930066158184694, guid: a90fe62606524db47914a4bc39b2dcd5, type: 3}
+  - {fileID: 849516271621299323, guid: 91e12e643d4cb6d49a8da2a9fccedf55, type: 3}
+  - {fileID: 5485638280344902046, guid: 896e8b1b404124141b4c0b2573c9533f, type: 3}
+  - {fileID: 7446841298214717111, guid: 6618e30727e5c704dac194e200eceddb, type: 3}
+  - {fileID: 2676833888066840694, guid: 8b1449daa3881584aa196039db088268, type: 3}
+  _tileIndexes: 01000000020000000300000004000000030000000200000001000000040000000300000004000000010000000200000001000000040000000300000002000000

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811cae657bd8e38428497030def70114, type: 3}
+  m_Name: CollectablePoolPreset
+  m_EditorClassIdentifier: 
+  _poolName: COLLECTABLE
+  _poolItems:
+  - prefab: {fileID: 3066682298253460867, guid: 45b9289845e3c174cb9ef04eb383f6d6, type: 3}
+    size: 10
+  - prefab: {fileID: 3165313497018531275, guid: 70a08763376fba54fa3270c7e70929f1, type: 3}
+    size: 10
+  - prefab: {fileID: 1643325947063732321, guid: b995dbcd643bff14d9b5f77e294a2a74, type: 3}
+    size: 10
+  - prefab: {fileID: 7661974961231487779, guid: 228414fd0ae000a49af3ee06ba7be6d8, type: 3}
+    size: 10

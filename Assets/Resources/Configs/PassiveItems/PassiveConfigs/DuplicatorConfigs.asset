@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 702d462b2b3dfae4e8ce9d03ffbb96e6, type: 3}
+  m_Name: DuplicatorConfigs
+  m_EditorClassIdentifier: 
+  _name: Duplicator
+  _description: 
+  _items:
+  - _displayName: Duplicator LVL2
+    _name: 8
+    _icon: {fileID: 21300000, guid: 02800fb9cff14da47a04572790384d8b, type: 3}
+    _description: Fires 1 more projectile
+    _modifiers:
+    - _modifier: 7
+      _deltaMultiplier: 2
+    _levelUpCfg: {fileID: 0}
+    _probability: 0

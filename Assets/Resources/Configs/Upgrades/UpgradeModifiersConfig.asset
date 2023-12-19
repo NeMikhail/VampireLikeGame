@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ee888c97b0a25b419d668c7c4a81421, type: 3}
+  m_Name: UpgradeModifiersConfig
+  m_EditorClassIdentifier: 
+  _speedMultiplier: 0
+  _maxHealthMultiplier: 0
+  _armorAddition: 0
+  _regeneration: 0
+  _pickupRange: 0
+  _weaponDamageMultiplier: 0
+  _weaponAreaMultiplier: 0
+  _weaponReloadMultiplier: 0
+  _weaponEffectDurationMultiplier: 0
+  _projectileSpeedMultiplier: 0
+  _weaponProjectilesAdditional: 0
+  _luckMultiplier: 0
+  _experienceMultiplier: 0
+  _revival: 0
+  _costAllUpgrades: 0
